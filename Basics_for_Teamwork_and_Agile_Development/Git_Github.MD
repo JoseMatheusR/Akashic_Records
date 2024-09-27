@@ -1,6 +1,8 @@
+
+
 # Git e GitHub: Diferenças e Comandos
 
-## **Git vs GitHub**
+## - **Git vs GitHub** -
 
 | Característica | Git | GitHub | 
 | --- | --- | --- |
@@ -10,7 +12,7 @@
 
 Além dessas características, o Git pode operar independentemente de qualquer plataforma online, como o próprio GitHub.
 
-### **Principais Comandos do Git**
+### - **Principais Comandos do Git** -
 
 O Git possui uma ampla gama de comandos que podem ser executados via terminal, permitindo o uso completo de suas funcionalidades. Abaixo estão listados alguns comandos fundamentais e suas funções:
 
@@ -151,16 +153,15 @@ Existem três opções de reset no Git:
 
 |Tipo|Descrição|
 |-|-|
-|**Soft**|Reverte o commit, mantendo as mudanças no estágio, prontas para novo commit.|
-|**Mixed**|Semelhante ao soft, mas deixa as mudanças como unstaged. Necessário adicionar novamente.|
+|**Soft**|O commit é desfeito, mas as mudanças continuam no estado `staged`|
+|**Mixed**|Semelhante ao soft, mas deixa as mudanças como unstaged. Sendo ecessário adicioná-las novamente.|
 |**Hard**|Remove todas as alterações feitas após o commit escolhido. Não é possível restaurar.|
 
-O reset *mixed* é o comportamento padrão. Exemplos:
 
 ```bash
-git reset --soft <commit_id>
-git reset --mixed <commit_id>
-git reset --hard <commit_id>
+git reset --soft Commit-Id
+git reset --mixed Commit-Id
+git reset --hard Commit-Id
 ```
 
 ## Git alias
@@ -204,7 +205,7 @@ git branch -d novaBranch
 
 ---
 
-## GitHub
+## - GitHub -
 | Issues | Releases |
 | - | - |
 |Issues no GitHub são relatórios usados para rastrear e discutir tópicos como bugs, melhorias, sugestões de funcionalidades ou perguntas relacionadas a um projeto de software. | Releases no GitHub são versões publicadas de um projeto, que incluem um conjunto específico de alterações e um ponto de controle para distribuição. Elas são baseadas em tags de commits, representando uma versão estável ou significativa do software.|
