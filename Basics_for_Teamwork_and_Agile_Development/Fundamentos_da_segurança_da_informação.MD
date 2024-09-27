@@ -1,4 +1,5 @@
 # Fundamentos da segurança da informação
+![ISO27001](https://github.com/user-attachments/assets/dd8eb062-82e0-412c-be21-bc40d7e3e545)
 
 ## Pilares e as políticas de Segurança da informação
 
