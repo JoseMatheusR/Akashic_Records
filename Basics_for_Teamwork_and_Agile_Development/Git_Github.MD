@@ -1,5 +1,5 @@
 # Git e GitHub: Diferenças e Comandos
-
+![Git symbol](https://github.com/user-attachments/assets/b228e316-cdf5-47e0-a179-ec834f8ae42c)
 ## **Git vs GitHub**
 
 | Característica | Git | GitHub | 
