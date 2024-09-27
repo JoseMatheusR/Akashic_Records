@@ -3,7 +3,7 @@
 
 ## Pilares e as políticas de Segurança da informação
 
-### **- O quê é segurança da informação? - **
+### **- O quê é segurança da informação? -**
 De acordo com o NIST (National Institute of Standards and Technology) a segurança da Informação é a proteção de informações e sistemas de informação contra o acesso, o uso, a divulgação, a interrupção, a modificação ou a destruição não autorizados, a fim de fornecer confidencialidade, integridade e disponibilidade.
 
 ### **- Pilares da segurança da informação -**
@@ -84,7 +84,7 @@ Além disso é muito importante:
 - E é proibido o acesso a conteúdo ilícito ou que viole a legislação vigente.
 - Não acessar redes inseguras como a deep web, devido aos altos riscos de vazamento de dados.
 
-### **- Atualização de software - **
+### **- Atualização de software -**
 
 Software defasado pode pôr em riscos suas informações e dados. Atualizações trazem correções e proteção contra novas vulnerabilidades encontradas, além de coisas como ganho de desempenho, compatibilidade e estabilidade. "*It's a win-win*", não há razão para não fazê-lo.
 
